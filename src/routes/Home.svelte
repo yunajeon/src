@@ -30,7 +30,7 @@
     <table class="table">
         <thead>
         <tr class="table-dark">
-            <th>번호</th>
+            <th>번호!!!</th>
             <th>제목</th>
             <th>작성일시</th>
         </tr>
